@@ -1,4 +1,7 @@
 #write your code here
 
-def countdown
+def countdown(num)
+  while num >= 10 do
+    
+  end
 end
