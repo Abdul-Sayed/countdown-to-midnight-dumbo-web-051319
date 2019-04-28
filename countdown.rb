@@ -1,7 +1,7 @@
 #write your code here
 
-def countdown(num)
-  while num >= 10 do
-    
+def countdown(number)
+  while number >= 10 do
+    "#{number} SECOND(S)!"
   end
 end
